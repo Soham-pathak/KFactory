@@ -1,5 +1,5 @@
 # KFactory
-This is an android Application for a restaurant 
-The package is to be big to upload on the repository 
-here is a link to the googlce drive where its saved:
+Android Application for a restaurant that lets the customers place orders, send feedback and check the menu.
+Built using HTML, CSS, JS, MySQL and PHPMyadmin and deployed as an android application.
+Link to the original project files
 https://drive.google.com/open?id=1x5OBD2UnHjvQ9FK1mQfaYvgBu754Ypsj
